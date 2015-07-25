@@ -1,0 +1,35 @@
+    1  git --version
+    2  git config --global user.name 'Peter Ridings'
+    3  git config --global user.name 'Peter Ridings'
+    4  git config --global user.email 'peteyridings@gmail.com'
+    5  curl fsSl http://git.io/7UHtNA | sh
+    6  curl -fsSl http://git.io/Fasb | sh
+    7  git --version
+    8  clear
+    9  whereami
+   10  clear
+   11  pwd
+   12  cd /c
+   13  cd ~
+   14  ls
+   15  ls -t
+   16  ls- l
+   17  ls -l
+   18  ls -lt
+   19  ls -rt
+   20  man ls
+   21  man -ls
+   22  man ls
+   23  man
+   24  --help
+   25  ls --help
+   26  cd ~
+   27  ls
+   28  ls -l
+   29  cd ..
+   30  cd ~
+   31  pwd
+   32  ls ~
+   33  sub .
+   34  history
+   35  history >moving_around.txt
